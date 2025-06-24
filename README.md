@@ -1,1 +1,1 @@
-Проект Strimvibe https://karlbelousov.github.io/strimvibe/
+Проект для просмотра фильмов Strimvibe https://karlbelousov.github.io/strimvibe/
